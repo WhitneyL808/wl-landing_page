@@ -12,9 +12,7 @@ My DIY Landing Page with these features.
 * Secure, and scalable to many CDNs worldwide via Netlify
 
 ## Sources
-* Cite.
-* Your. 
-* Sources.
+* [boska from font share] (https://www.fontshare.com/fonts/boska)
 
 ## Why Does This Exist? 
 Many services offer a single-page-landing. These "web portals" have existed for decades before [Linktree](https://linktr.ee/), [About.Me](https://about.me), [Card](https://carrd.co/), etc.
