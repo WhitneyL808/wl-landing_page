@@ -1,12 +1,20 @@
 /* My Styles */
 body{
     background: #ffcd83; 
+    
     display: grid;
-    align-content: center;
-    justify-content: center;
+    justify-items: center;
+    align-items: center;
+    height: 100vh;
 }
 
 img{
     height: 200px;
     width: 300px;
+}
+
+p {
+   padding: 1em;
+   border-radius: 1em;
+   width: 500px; 
 }
