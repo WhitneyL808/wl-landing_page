@@ -1,5 +1,12 @@
 /* My Styles */
 body{
-    background: green; 
-    
+    background: #ffcd83; 
+    display: grid;
+    align-content: center;
+    justify-content: center;
+}
+
+img{
+    height: 200px;
+    width: 300px;
 }
