@@ -12,6 +12,7 @@ body{
     height: 100vh;
     font-family: 'Boska-variable';
     color: #ffdb77;
+    display: grid;
 }
 
 h1{
@@ -39,8 +40,11 @@ p {
 footer{
     font-weight: bold;
     letter-spacing: 2px;
+    padding: 30px;
+    
 }
 
 a{
     color: #ffdb77;
+    padding: 80px;
 }
