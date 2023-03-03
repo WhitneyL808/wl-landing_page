@@ -1,4 +1,7 @@
 /* My Styles */
+@import url(boska.css);
+
+
 body{
     background: #ffcd83; 
     
@@ -6,6 +9,7 @@ body{
     justify-items: center;
     align-items: center;
     height: 100vh;
+    font-family: 'Boska-variable';
 }
 
 img{
