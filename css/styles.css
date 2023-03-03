@@ -29,11 +29,27 @@ h1{
    
 }
 
-img{
+#selfie{
     height: 200px;
     width: 300px;
     border-radius: 40%;
     padding: 15px;
+}
+
+#github{
+    height: 200px;
+    width: 150px;
+}
+
+#codepen{
+    height: 50px;
+    width: 150px;
+
+}
+
+#figma{
+    height: 10em;
+    width: 10em;
 }
 
 p {
@@ -48,13 +64,13 @@ p {
 }
 
 footer{
-    font-weight: bold;
-    letter-spacing: 2px;
     padding: 30px;
+    height: 200px;
+    width: 500px;
     
 }
 
 a{
     color: #ffdb77;
-    padding: 80px;
+    padding: 60px;
 }
