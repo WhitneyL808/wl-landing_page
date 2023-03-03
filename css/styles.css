@@ -3,8 +3,9 @@
 
 
 body{
-    background: #ffcd83; 
+    font-family: 'Boska-Variable';
     
+    background: #ffcd83; 
     display: grid;
     justify-items: center;
     align-items: center;
@@ -21,4 +22,5 @@ p {
    padding: 1em;
    border-radius: 1em;
    width: 500px; 
+   font-family: 'Boska-VariableItalic';
 }
