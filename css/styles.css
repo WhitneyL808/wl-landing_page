@@ -15,16 +15,25 @@ body{
     display: grid;
 }
 
+nav{
+    font-weight: bold;
+    letter-spacing: 2px;
+    padding: 20px;
+}
+
 h1{
     font-family: 'Boska-Black';
     font-size: 60px;
     letter-spacing: 5px;
+    padding: 20px;
+   
 }
 
 img{
     height: 200px;
     width: 300px;
     border-radius: 40%;
+    padding: 15px;
 }
 
 p {
