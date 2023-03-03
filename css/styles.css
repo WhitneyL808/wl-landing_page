@@ -5,12 +5,13 @@
 body{
     font-family: 'Boska-Variable';
     
-    background: #ffcd83; 
+    background: hsl(208, 100%, 73%); 
     display: grid;
     justify-items: center;
     align-items: center;
     height: 100vh;
     font-family: 'Boska-variable';
+    color: #ffdb77
 }
 
 img{
@@ -19,8 +20,11 @@ img{
 }
 
 p {
+   background-color: hsl(208, 100%, 84%);
    padding: 1em;
    border-radius: 1em;
    width: 500px; 
-   font-family: 'Boska-VariableItalic';
+   font-family: 'Boska-Black';
+   font-weight: 700;
+   color: #ffdb77;
 }
