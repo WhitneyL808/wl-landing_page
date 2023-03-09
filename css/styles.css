@@ -5,20 +5,21 @@
 body{
     font-family: 'Boska-Variable';
     
-    background: hsl(208, 100%, 73%); 
+    background: black; 
     display: grid;
     justify-items: center;
     align-items: center;
     height: 100vh;
     font-family: 'Boska-variable';
-    color: #ffdb77;
-    display: grid;
 }
 
-nav{
+.navbar {
     font-weight: bold;
     letter-spacing: 2px;
     padding: 20px;
+    color: white; 
+    align-content: end;
+    width: 200em;
 }
 
 h1{
@@ -26,7 +27,19 @@ h1{
     font-size: 60px;
     letter-spacing: 5px;
     padding: 20px;
-   
+    color: white; 
+    align-items: center;
+    justify-content: center;
+}
+
+p {
+    color: white;
+   padding: 1em;
+   border-radius: 1em;
+   width: 500px; 
+   font-family: 'Boska-Medium';
+   font-size: large;
+   letter-spacing: 1.5px;
 }
 
 #selfie{
@@ -52,16 +65,6 @@ h1{
     width: 10em;
 }
 
-p {
-   background-color: hsl(208, 100%, 84%);
-   padding: 1em;
-   border-radius: 1em;
-   width: 500px; 
-   font-family: 'Boska-Medium';
-   font-size: large;
-   color: white;
-   letter-spacing: 1.5px;
-}
 
 footer{
     padding: 30px;
@@ -71,6 +74,6 @@ footer{
 }
 
 a{
-    color: #ffdb77;
+    color: #ffffff;
     padding: 60px;
 }
