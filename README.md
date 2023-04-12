@@ -1,14 +1,15 @@
 # DIY Landing Page
 
-<a href="https://app.netlify.com/start/deploy?repository=https://github.com/ewuweblab/diy-landing-page-starter"><img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify"></a>
+<a href="https://app.netlify.com/start/deploy?repository=https://github.com/ewuweblab/diy-landing-page-starter">
+<img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify"></a>
 
 ## What Is This? 
-My DIY Landing Page with these features. 
+This is my page to show off some work when deployed but now you are currently reading the overview of it.
 
-* My content. My design.
-* Customizable, and persistent URL e.g. `YourCustomName.Netlify.app`
+* Page including my works from other classes and personal projects 
+* <a href= "https://lugoslogos.netlify.app/"> Link to website </a> 
 * Portable. Take it to any web host. 
-* Future proof, and easy to maintain. You own the code via GitHub
+* Future proof, and easy to maintain.
 * Secure, and scalable to many CDNs worldwide via Netlify
 
 ## Sources
