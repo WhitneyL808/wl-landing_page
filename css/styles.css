@@ -52,10 +52,10 @@ p {
 }
 
 #selfie{
-    height: 200px;
+    height: 450px;
     width: 300px;
-    border-radius: 40%;
-    padding: 15px;
+    border-radius: 15%;
+    padding: 10px;
 
 }
 
