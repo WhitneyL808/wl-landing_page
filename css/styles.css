@@ -1,21 +1,21 @@
 /* My Styles */
 @import url(boska.css);
+@import url(satoshi.css);
 
 html {
 
 }
 
 body{
-    font-family: 'Boska-Variable';
     background: black; 
     justify-items: center;
     align-items: center;
     height: 100vh;
     block-size: fit-content;
-    font-family: 'Boska-variable';
 }
 
 .navbar {
+    font-family: 'Boska-regular';
     font-weight: bold;
     letter-spacing: 2px;
     padding: 20px;
@@ -32,10 +32,10 @@ body{
 }
 
 h1{
-    font-family: 'Boska-Black';
-    font-size: 60px;
+    font-family: 'Satoshi-Bold';
+    font-size: 100px;
     letter-spacing: 5px;
-    padding: 20px;
+    padding: 30px;
     color: white; 
     align-items: center;
     justify-content: center;
@@ -55,7 +55,7 @@ p {
     height: 450px;
     width: 300px;
     border-radius: 15%;
-    padding: 10px;
+    padding: 20px;
 
 }
 
